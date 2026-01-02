@@ -1,0 +1,3 @@
+Original: 0.8288
+JPEG Q60: 0.6927
+JPEG Q30: 0.6295

@@ -1,8 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
 venv/
 .venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# ML / Models
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Data
 data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Outputs
 runs/
 logs/
 checkpoints/
-*.pt
-*.pth
+outputs/
+
+# Secrets
+.env
